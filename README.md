@@ -1,2 +1,4 @@
-# GFT-Start3-DotNet
-Repositório de desafios do GFT Start #3 .Net
+# GFT Start #3 .Net
+Repositório de destinado ao versionamento dos desafios do GFT Start #3 .Net
+
+** Primeiro Desafio - Introdução ao Git e GitHub
