@@ -1,0 +1,15 @@
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\obj\Debug\net6.0\PraticaDotNet02.csproj.AssemblyReference.cache
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\obj\Debug\net6.0\PraticaDotNet02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\obj\Debug\net6.0\PraticaDotNet02.AssemblyInfoInputs.cache
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\obj\Debug\net6.0\PraticaDotNet02.AssemblyInfo.cs
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\obj\Debug\net6.0\PraticaDotNet02.csproj.CoreCompileInputs.cache
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\bin\Debug\net6.0\PraticaDotNet02.exe
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\bin\Debug\net6.0\PraticaDotNet02.deps.json
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\bin\Debug\net6.0\PraticaDotNet02.runtimeconfig.json
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\bin\Debug\net6.0\PraticaDotNet02.dll
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\bin\Debug\net6.0\ref\PraticaDotNet02.dll
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\bin\Debug\net6.0\PraticaDotNet02.pdb
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\obj\Debug\net6.0\PraticaDotNet02.dll
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\obj\Debug\net6.0\ref\PraticaDotNet02.dll
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\obj\Debug\net6.0\PraticaDotNet02.pdb
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet02\obj\Debug\net6.0\PraticaDotNet02.genruntimeconfig.cache
