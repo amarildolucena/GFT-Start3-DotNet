@@ -1,0 +1,15 @@
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\bin\Debug\net6.0\PraticaDotNet03.exe
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\bin\Debug\net6.0\PraticaDotNet03.deps.json
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\bin\Debug\net6.0\PraticaDotNet03.runtimeconfig.json
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\bin\Debug\net6.0\PraticaDotNet03.dll
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\bin\Debug\net6.0\ref\PraticaDotNet03.dll
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\bin\Debug\net6.0\PraticaDotNet03.pdb
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\obj\Debug\net6.0\PraticaDotNet03.csproj.AssemblyReference.cache
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\obj\Debug\net6.0\PraticaDotNet03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\obj\Debug\net6.0\PraticaDotNet03.AssemblyInfoInputs.cache
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\obj\Debug\net6.0\PraticaDotNet03.AssemblyInfo.cs
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\obj\Debug\net6.0\PraticaDotNet03.csproj.CoreCompileInputs.cache
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\obj\Debug\net6.0\PraticaDotNet03.dll
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\obj\Debug\net6.0\ref\PraticaDotNet03.dll
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\obj\Debug\net6.0\PraticaDotNet03.pdb
+C:\Workspace\GFT-Start3-DotNet\PraticaDotNet03\obj\Debug\net6.0\PraticaDotNet03.genruntimeconfig.cache
