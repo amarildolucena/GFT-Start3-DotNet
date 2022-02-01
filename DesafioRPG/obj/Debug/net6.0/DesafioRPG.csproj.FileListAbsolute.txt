@@ -1,0 +1,15 @@
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\bin\Debug\net6.0\DesafioRPG.exe
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\bin\Debug\net6.0\DesafioRPG.deps.json
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\bin\Debug\net6.0\DesafioRPG.runtimeconfig.json
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\bin\Debug\net6.0\DesafioRPG.dll
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\bin\Debug\net6.0\ref\DesafioRPG.dll
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\bin\Debug\net6.0\DesafioRPG.pdb
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\obj\Debug\net6.0\DesafioRPG.csproj.AssemblyReference.cache
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\obj\Debug\net6.0\DesafioRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\obj\Debug\net6.0\DesafioRPG.AssemblyInfoInputs.cache
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\obj\Debug\net6.0\DesafioRPG.AssemblyInfo.cs
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\obj\Debug\net6.0\DesafioRPG.csproj.CoreCompileInputs.cache
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\obj\Debug\net6.0\DesafioRPG.dll
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\obj\Debug\net6.0\ref\DesafioRPG.dll
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\obj\Debug\net6.0\DesafioRPG.pdb
+C:\Workspace\GFT-Start3-DotNet\DesafioRPG\obj\Debug\net6.0\DesafioRPG.genruntimeconfig.cache
