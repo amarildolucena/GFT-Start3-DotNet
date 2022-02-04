@@ -1,0 +1,15 @@
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.exe
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.deps.json
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.runtimeconfig.json
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.dll
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\bin\Debug\net6.0\ref\ProjetoFinal.dll
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\bin\Debug\net6.0\ProjetoFinal.pdb
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.AssemblyReference.cache
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.AssemblyInfo.cs
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.csproj.CoreCompileInputs.cache
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.dll
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\obj\Debug\net6.0\ref\ProjetoFinal.dll
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.pdb
+C:\Workspace\GFT-Start3-DotNet\ProjetoFinal\obj\Debug\net6.0\ProjetoFinal.genruntimeconfig.cache

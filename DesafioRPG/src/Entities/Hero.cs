@@ -3,7 +3,11 @@ namespace DesafioRPG.src.Entities
     public abstract class Hero
     {
 
-        public Hero() {}
+        public Hero()
+        {
+            this.Name = "";
+            this.Type = "";
+        }
 
         public Hero(string Name, int Level, int Hearts)
         {
